@@ -1,1 +1,1 @@
-Dies ist das Depot von Otto Normalverbraucher.
+Dies ist das Datendepot von Otto Normalverbraucher.
