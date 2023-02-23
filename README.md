@@ -1,1 +1,1 @@
-Dies ist das Datendepot von Otto Normalverbraucher.
+Dies ist das readme-file von Otto Normalverbraucher.
